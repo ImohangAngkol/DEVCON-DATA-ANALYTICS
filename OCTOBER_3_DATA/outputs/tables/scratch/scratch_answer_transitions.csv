@@ -1,0 +1,6 @@
+question,skill,wrong_to_right,right_to_wrong,right_both,wrong_both,net_correct_change
+q1,Decomposition,1,3,18,0,-2
+q2,Pattern Recognition,4,1,13,4,3
+q3,Abstraction,10,0,0,12,10
+q4,Algorithm Design,4,0,16,2,4
+q5,Looping / repetition,14,1,3,4,13

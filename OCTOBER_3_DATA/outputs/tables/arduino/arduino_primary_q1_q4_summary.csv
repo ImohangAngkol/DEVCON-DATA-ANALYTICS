@@ -1,0 +1,3 @@
+phase,participants,mean_correct_out_of_4,median_correct_out_of_4,sd_correct,minimum_correct,maximum_correct,mean_score_pct
+Pre,26,2.1923076923076925,2.0,0.6939297237750099,1,3,54.80769230769231
+Post,26,2.8846153846153846,3.0,1.0325472609783275,0,4,72.11538461538461

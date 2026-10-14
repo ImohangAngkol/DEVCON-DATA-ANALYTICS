@@ -1,0 +1,2 @@
+Climate Champions Data Analytics
+An end-to-end pre-test/post-test assessment analysis covering five Climate Champions workshop tracks: Teachers, Scratch, micro:bit Heat, micro:bit Flood, and Arduino. The project includes data validation, descriptive analysis, participant-level comparisons, question-level analysis, visualization, and exploratory machine-learning models for post-test score prediction.

@@ -1,0 +1,11 @@
+phase,question,skill,n_answered,n_correct,correct_rate_pct
+pre,q1,Decomposition,22,21,95.45454545454545
+pre,q2,Pattern Recognition,22,14,63.63636363636363
+pre,q3,Abstraction,22,0,0.0
+pre,q4,Algorithm Design,22,16,72.72727272727273
+pre,q5,Looping / repetition,22,4,18.181818181818183
+post,q1,Decomposition,22,19,86.36363636363636
+post,q2,Pattern Recognition,22,17,77.27272727272727
+post,q3,Abstraction,22,10,45.45454545454545
+post,q4,Algorithm Design,22,20,90.9090909090909
+post,q5,Looping / repetition,22,17,77.27272727272727

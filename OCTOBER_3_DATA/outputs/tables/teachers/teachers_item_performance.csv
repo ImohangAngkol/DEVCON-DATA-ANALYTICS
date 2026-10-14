@@ -1,0 +1,11 @@
+phase,question,skill,correct_answer,n_answered,n_correct,correct_rate_pct
+pre,q1,Decomposition,C,29,3,10.344827586206897
+pre,q2,Flowchart symbol: Decision (diamond),D,29,6,20.689655172413794
+pre,q3,Block category: Logic (if/then/else),A,29,8,27.586206896551722
+pre,q4,Algorithm concept,B,29,3,10.344827586206897
+pre,q5,Debugging: event handler nesting,C,29,17,58.620689655172406
+post,q1,Abstraction,C,29,9,31.03448275862069
+post,q2,Flowchart symbol: Input/Output (parallelogram),D,29,16,55.172413793103445
+post,q3,Block category: Music (play tone),A,29,17,58.620689655172406
+post,q4,Loops: forever vs. on start,B,29,12,41.37931034482759
+post,q5,Debugging: increment vs. set block,C,29,27,93.10344827586206

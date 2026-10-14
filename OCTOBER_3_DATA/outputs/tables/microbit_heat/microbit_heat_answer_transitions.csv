@@ -1,0 +1,6 @@
+question,skill,wrong_to_right,right_to_wrong,right_both,wrong_both,net_correct_change
+q1,Decomposition,6,4,3,12,2
+q2,Pattern Recognition,4,0,20,1,4
+q3,Abstraction,7,2,2,14,5
+q4,Conditional logic / algorithm,9,3,1,12,6
+q5,Debugging,0,3,21,1,-3

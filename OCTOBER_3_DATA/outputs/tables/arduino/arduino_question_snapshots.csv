@@ -1,0 +1,5 @@
+question,participants,pre_skill,post_skill,pre_correct,post_correct,pre_pct,post_pct,difference_pp_different_items
+Q1,26,Arduino structure: void setup() runs once,Arduino structure: void loop() runs continuously,1,20,3.8461538461538463,76.92307692307693,73.07692307692308
+Q2,26,"Hardware: analog input (ADC) range, 0–1023","Hardware: PWM output (analogWrite) range, 0–255",9,15,34.61538461538461,57.692307692307686,23.076923076923073
+Q3,26,Circuit design: why a resistor limits current,Circuit design: consequence of omitting a resistor,26,23,100.0,88.46153846153845,-11.538461538461542
+Q4,26,Conditional logic: sensor-triggered actuator (if),Conditional logic: sensor-triggered actuator (if/else),21,17,80.76923076923077,65.38461538461539,-15.384615384615385

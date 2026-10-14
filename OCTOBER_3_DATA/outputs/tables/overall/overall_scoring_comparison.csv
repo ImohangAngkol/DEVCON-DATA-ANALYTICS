@@ -1,0 +1,16 @@
+track,track_label,method,n,questions_in_denominator,pre_mean_pct,post_mean_pct,mean_change_pp
+teachers,Teachers,Primary,29,5,25.517241379310345,55.86206896551724,30.344827586206897
+teachers,Teachers,Workbook scoring — same primary group,29,5,25.517241379310345,55.86206896551724,30.344827586206897
+teachers,Teachers,Workbook scoring — all records,29,5,25.517241379310345,55.86206896551724,30.344827586206897
+scratch,Scratch,Primary,22,5,50.0,75.45454545454545,25.454545454545453
+scratch,Scratch,Workbook scoring — same primary group,22,5,50.0,75.45454545454545,25.454545454545453
+scratch,Scratch,Workbook scoring — all records,22,5,50.0,75.45454545454545,25.454545454545453
+microbit_heat,micro:bit Heat,Primary,25,5,47.2,58.4,11.2
+microbit_heat,micro:bit Heat,Workbook scoring — same primary group,25,5,47.2,58.4,11.2
+microbit_heat,micro:bit Heat,Workbook scoring — all records,25,5,47.2,58.4,11.2
+microbit_flood,micro:bit Flood,Primary,25,5,67.2,66.4,-0.8
+microbit_flood,micro:bit Flood,Workbook scoring — same primary group,25,5,67.2,66.4,-0.8
+microbit_flood,micro:bit Flood,Workbook scoring — all records,26,5,67.6923076923077,63.84615384615385,-3.8461538461538463
+arduino,Arduino,Primary,26,4,54.80769230769231,72.11538461538461,17.307692307692307
+arduino,Arduino,Workbook scoring — same primary group,26,5,43.84615384615385,57.69230769230769,13.846153846153847
+arduino,Arduino,Workbook scoring — all records,27,5,42.96296296296296,57.77777777777778,14.814814814814815

@@ -1,0 +1,6 @@
+question,skill,participants,pre_correct,post_correct,pre_pct,post_pct,change_pp
+Q1,Decomposition,25,14,20,56.00000000000001,80.0,24.0
+Q2,Pattern Recognition,25,19,18,76.0,72.0,-4.0000000000000036
+Q3,Abstraction,25,3,1,12.0,4.0,-7.999999999999999
+Q4,Conditional logic / algorithm,25,23,20,92.0,80.0,-12.0
+Q5,Debugging,25,25,24,100.0,96.0,-4.0000000000000036

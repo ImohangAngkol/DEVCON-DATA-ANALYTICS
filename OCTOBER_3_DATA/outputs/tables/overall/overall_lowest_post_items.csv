@@ -1,0 +1,7 @@
+track,track_label,question,primary_n,identical_items,pre_skill,pre_correct,pre_pct,post_skill,post_correct,post_pct
+teachers,Teachers,Q1,29,False,Decomposition,3,10.344827586206897,Abstraction,9,31.03448275862069
+scratch,Scratch,Q3,22,True,Abstraction,0,0.0,Abstraction,10,45.45454545454545
+microbit_heat,micro:bit Heat,Q1,25,True,Decomposition,7,28.000000000000004,Decomposition,9,36.0
+microbit_heat,micro:bit Heat,Q3,25,True,Abstraction,4,16.0,Abstraction,9,36.0
+microbit_flood,micro:bit Flood,Q3,25,True,Abstraction,3,12.0,Abstraction,1,4.0
+arduino,Arduino,Q2,26,False,"Hardware: analog input (ADC) range, 0–1023",9,34.61538461538461,"Hardware: PWM output (analogWrite) range, 0–255",15,57.692307692307686

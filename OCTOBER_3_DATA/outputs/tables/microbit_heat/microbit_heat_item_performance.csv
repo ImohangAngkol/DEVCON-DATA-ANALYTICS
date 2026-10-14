@@ -1,0 +1,11 @@
+phase,question,skill,n_answered,n_correct,correct_rate_pct
+pre,q1,Decomposition,25,7,28.000000000000004
+pre,q2,Pattern Recognition,25,20,80.0
+pre,q3,Abstraction,25,4,16.0
+pre,q4,Conditional logic / algorithm,25,4,16.0
+pre,q5,Debugging,25,24,96.0
+post,q1,Decomposition,25,9,36.0
+post,q2,Pattern Recognition,25,24,96.0
+post,q3,Abstraction,25,9,36.0
+post,q4,Conditional logic / algorithm,25,10,40.0
+post,q5,Debugging,25,21,84.0

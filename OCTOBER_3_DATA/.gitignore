@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Private/raw data
+data/raw/
+data/processed/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db

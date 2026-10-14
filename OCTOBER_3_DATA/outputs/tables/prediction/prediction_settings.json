@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "folds": 5,
+  "repetitions": 20,
+  "ridge_alpha": 10.0,
+  "tree_max_depth": 2,
+  "tree_min_samples_leaf": 5,
+  "features": "Included pre-test question correctness indicators",
+  "target": "Post-test total correct answers",
+  "prediction_clipping": "Zero to number of included questions",
+  "python_version": "3.14.2",
+  "sklearn_version": "1.9.1"
+}
